@@ -1,4 +1,4 @@
-# explanation_alignment
+# Explanation Alignment: Quantifying the Correctness of Model Reasoning At Scale
 
 This GitHub repository contains all the code needed to run the experiments described in our paper on explanation alignment metrics for machine learning models.
 
